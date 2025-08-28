@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ayush/OneDrive/Desktop/End2EndMLops/mlruns/312532142065363738/4c1a5ebe1f444adbbe365b746d39dde6/artifacts
+end_time: 1756358498897
+entry_point_name: ''
+experiment_id: '312532142065363738'
+lifecycle_stage: active
+run_id: 4c1a5ebe1f444adbbe365b746d39dde6
+run_name: intelligent-worm-99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756358481476
+status: 3
+tags: []
+user_id: ayush

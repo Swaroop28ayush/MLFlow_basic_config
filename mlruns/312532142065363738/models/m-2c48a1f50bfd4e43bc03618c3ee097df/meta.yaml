@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ayush/OneDrive/Desktop/End2EndMLops/mlruns/312532142065363738/models/m-2c48a1f50bfd4e43bc03618c3ee097df/artifacts
+creation_timestamp: 1756358481653
+experiment_id: '312532142065363738'
+last_updated_timestamp: 1756358498881
+model_id: m-2c48a1f50bfd4e43bc03618c3ee097df
+model_type: null
+name: linear_regression_model
+source_run_id: 4c1a5ebe1f444adbbe365b746d39dde6
+status: 2
+status_message: null
